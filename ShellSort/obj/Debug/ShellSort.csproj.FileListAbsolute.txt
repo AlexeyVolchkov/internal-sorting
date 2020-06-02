@@ -1,0 +1,11 @@
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.csprojAssemblyReference.cache
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.MainForm.resources
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.Properties.Resources.resources
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.GenerateResource.cache
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
+C:\Users\Denvormine\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.RandomForm.resources
