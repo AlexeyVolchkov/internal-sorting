@@ -22,7 +22,7 @@ namespace ShellSort
 
         private void BtOK_Click(object sender, EventArgs e)
         {
-            if (min > max)
+            if ((int) nudMin.Value > (int) nudMax.Value))
             {
                 MessageBox.Show("Минимум больше максимума!");
                 return;
